@@ -10,3 +10,6 @@
 [submodule "vim-signify"]
 	path = vim-signify
 	url = https://github.com/mhinz/vim-signify.git
+[submodule "ag.vim"]
+	path = ag.vim
+	url = https://github.com/rking/ag.vim.git
