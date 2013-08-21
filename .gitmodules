@@ -1,0 +1,12 @@
+[submodule "vim-airline"]
+	path = vim-airline
+	url = https://github.com/bling/vim-airline.git
+[submodule "vim-bufferline"]
+	path = vim-bufferline
+	url = https://github.com/bling/vim-bufferline.git
+[submodule "undotree"]
+	path = undotree
+	url = https://github.com/mbbill/undotree.git
+[submodule "vim-signify"]
+	path = vim-signify
+	url = https://github.com/mhinz/vim-signify.git
