@@ -22,3 +22,12 @@
 [submodule "vim-easymotion"]
 	path = vim-easymotion
 	url = https://github.com/Lokaltog/vim-easymotion.git
+[submodule "numbers.vim"]
+	path = numbers.vim
+	url = https://github.com/myusuf3/numbers.vim.git
+[submodule "vim-indent-guides"]
+	path = vim-indent-guides
+	url = https://github.com/nathanaelkane/vim-indent-guides.git
+[submodule "csapprox"]
+	path = csapprox
+	url = https://github.com/godlygeek/csapprox.git
