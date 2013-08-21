@@ -28,6 +28,3 @@
 [submodule "vim-indent-guides"]
 	path = vim-indent-guides
 	url = https://github.com/nathanaelkane/vim-indent-guides.git
-[submodule "csapprox"]
-	path = csapprox
-	url = https://github.com/godlygeek/csapprox.git
